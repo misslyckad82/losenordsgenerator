@@ -11,6 +11,7 @@ Användaren kan därefter välja att spara ner lösenordet i en fil till sin dat
 
 ## Framtida förbättringar
  - Krypterad lösenordsfil. Det är inte säkert att spara en fil med lösenord på datorn.
+ - Alternativt spara lösenordet i en lösenordshanterare.
  - Användaren ska kunna mata in ett eget lösenord och se om det har läckt. <br>
    Lösenordet ska uppfylla vissa kriterier för att vara säkert.
 
