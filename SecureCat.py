@@ -167,3 +167,4 @@ while True:
     # Scriptet körs från början, om användaren inte är nöjd med det genererade lösenordet.
 
 
+# Bra jobbat bästa!! Älskar katten du gjort på toppen<3
