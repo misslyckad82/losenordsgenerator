@@ -9,6 +9,11 @@ Målet är att användaren ska få ett säkert lösenord som är kontrollerat mo
 Scriptet skapar ett slumpmässigt lösenord baserat på siffror, små och stora bokstäver samt specialtecken. <br>
 Användaren kan därefter välja att spara ner lösenordet i en fil till sin dator. Filen hamnar i samma mapp som SecureCat.py. <br>
 
+## Framtida förbättringar
+ - Krypterad lösenordsfil. Det är inte säkert att spara en fil med lösenord på datorn.
+ - Användaren ska kunna mata in ett eget lösenord och se om det har läckt. <br>
+   Lösenordet ska uppfylla vissa kriterier för att vara säkert.
+
 ## Systemkrav
 Python-scriptet fungerar i följande miljöer:  <br>
  - Linux  <br>
@@ -28,6 +33,7 @@ Python-scriptet fungerar i följande miljöer:  <br>
 - python3 ./SecureCat.py <br>
 
 ### Mac OS <br>
+- python3 SecureCat.py
 
 ## Film <br>
 https://youtu.be/ukBOVXCo3V8
