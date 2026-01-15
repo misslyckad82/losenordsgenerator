@@ -22,8 +22,8 @@ Python-scriptet fungerar i följande miljöer:  <br>
  - Mac OS  <br>
 
 ## Instruktioner för körning
-- Ladda ner repot (SecureCat.py) <br>
-- Kör SecureCat.py i din terminal  <br>
+- Klona repot https://github.com/misslyckad82/SecureCat.git <br>
+- Kör SecureCat.py i din terminal.  <br>
 
 ### Kommandon Powershell: <br>
 - cd <insert hela sökvägen till där SecureCat.py ligger på din dator> <br>
